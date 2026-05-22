@@ -27,6 +27,6 @@ Over the years, I have applied ML/AI across a variety of challenging domains, in
 
 *   **Symbolic Regression:** My current primary research focuses on exhaustive Symbolic Regression, approaching it from both an algorithmic and software engineering perspective. I am always eager to exchange ideas or collaborate in this space. If you are working on similar problems or have an exciting opportunity, feel free to reach out!
 *   **Science Communication:** I received training in science communication during my Ph.D. In recent discussions about AI, I've realized there is a strong need to better communicate the distinction between *language usage* and *reasoning* to non-technical audiences. Giving people a clearer understanding of the true capabilities of Large Language Models (LLMs) is incredibly important right now. If you have ideas or resources on this topic, I'd love to connect!
-*   **Lifelong Learning:** Outside my core research, I'm always eager to dive into new, complex topics like game theory and coding theory. I find it particularly fun and helpful to discover unexpected connections between seemingly completely different fields.
+*   **Lifelong Learning:** Outside my core research, I'm always eager to dive into new topics like game theory and coding theory. I find it particularly fun and helpful to discover unexpected connections between seemingly completely different fields.
 
 </div>
